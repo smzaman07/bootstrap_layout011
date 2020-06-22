@@ -1,0 +1,27 @@
+.navbar-brand img{
+	width: 95px;
+}
+.navbar-nav .nav-link{
+	color: #5a0fc8 !important;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: rgb(0, 0, 255)!important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #5a0fc8;
+    border-color: #5a0fc8;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #7b48c5;
+    border-color: #5a0fc8;
+}
+.form-group p{
+  font-size: 14px;
+  font-weight: 100;
+}
